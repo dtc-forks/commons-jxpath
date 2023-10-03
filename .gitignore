@@ -4,3 +4,7 @@ target
 /.classpath
 /.project
 /.settings/
+
+red4j-data/
+**/cp.txt
+**.java.orig
